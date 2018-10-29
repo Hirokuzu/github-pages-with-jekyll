@@ -1,3 +1,7 @@
+---
+title: "First post!"
+date: 2018-10-29
+
 When you have an idea for a project, the hardest part is often getting started.
 But, once you get started, everything starts flowing easier.
 
